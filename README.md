@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I'm Tanuj 👋
+I am a web developer.
 
 <!--
 **tanuj7077/tanuj7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
