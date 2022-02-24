@@ -17,8 +17,8 @@ I am a web developer<br />
 
 #### My favourite projects <br />
 <ul>
-  <li><b>Novel Universe: </b>Website to browse and read novels | <em><a href="https://sleepy-jones-10bf5b.netlify.app/">Live Website</a></em> | <em><a href="https://github.com/tanuj7077/novelUniverse">Github</a></em>
   <li><b>GodArt: </b>A social Media application | <em><a href="https://compassionate-mclean-d43349.netlify.app/">Live Website</a></em> | <em><a href="https://github.com/tanuj7077/ArtCommunityReact">Github</a></em>
+  <li><b>Novel Universe: </b>Website to browse and read novels | <em><a href="https://sleepy-jones-10bf5b.netlify.app/">Live Website</a></em> | <em><a href="https://github.com/tanuj7077/novelUniverse">Github</a></em>
   <li><b>CTrak: </b>Price tracking website for crypto-assets | <em><a href="https://stoic-haibt-683b5a.netlify.app/">Live Website</a></em> | <em><a href="https://github.com/tanuj7077/CTrak">Github</a></em>
 <ul />
 
